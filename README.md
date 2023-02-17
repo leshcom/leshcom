@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leshcom
+- 👋 Hii, I’m @leshcom
 - 👀 I’m interested in General Engineering
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on whatever you can suggest
