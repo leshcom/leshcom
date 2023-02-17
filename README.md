@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leshcom
 - 👀 I’m interested in General Engineering
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on whatever you can suggest
 - 📫 How to reach me alexey.maximenko@ukr.net @oleksii_maksymenko
 
 <!---
