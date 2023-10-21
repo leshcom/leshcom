@@ -9,7 +9,7 @@
 
 // Function that deletes every odd character from a string
 // Функція, яка видаляє кожен другий символ з рядка
-char* del_each_second(char* str_ptr) {
+char* del_each_odd(char* str_ptr) {
     int myLength = 0;
     int secPtr = 1;
     int i = 0;
