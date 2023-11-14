@@ -1,0 +1,25 @@
+# ninja log v5
+1	730	1703455542	CMakeFiles/Lib.dir/Employee.cpp.o	4a9c633c03dd477c
+1	739	1703455542	CMakeFiles/Lib.dir/Database.cpp.o	6429e8bbb945fae5
+740	1373	1703455542	CMakeFiles/Lib.dir/Position.cpp.o	5d9a929d6f3a6f63
+731	1384	1703455542	CMakeFiles/Lib.dir/UserInterface.cpp.o	5bd40203e2e50978
+1389	1481	1703455542	libLib.a	154f8731647b845e
+1373	1785	1703455543	CMakeFiles/test.bin.dir/UserInterface.cpp.o	6acf6a7fd64756d6
+1786	1903	1703455543	test.bin	ac0bb609a68e61fb
+0	5	0	clean	a7c70eacb11a5051
+0	719	1703455569	CMakeFiles/Lib.dir/Database.cpp.o	6429e8bbb945fae5
+1	726	1703455569	CMakeFiles/Lib.dir/Employee.cpp.o	4a9c633c03dd477c
+726	1342	1703455570	CMakeFiles/Lib.dir/Position.cpp.o	5d9a929d6f3a6f63
+720	1402	1703455570	CMakeFiles/Lib.dir/UserInterface.cpp.o	5bd40203e2e50978
+1402	1486	1703455570	libLib.a	154f8731647b845e
+1342	1763	1703455570	CMakeFiles/test.bin.dir/UserInterface.cpp.o	6acf6a7fd64756d6
+1763	1888	1703455570	test.bin	ac0bb609a68e61fb
+0	3	0	clean	a7c70eacb11a5051
+25	517	1704491257	CMakeFiles/Lib.dir/Database.cpp.o	6429e8bbb945fae5
+25	522	1704491257	CMakeFiles/Lib.dir/Employee.cpp.o	4a9c633c03dd477c
+517	878	1704491258	CMakeFiles/Lib.dir/UserInterface.cpp.o	5bd40203e2e50978
+522	880	1704491258	CMakeFiles/Lib.dir/Position.cpp.o	5d9a929d6f3a6f63
+880	952	1704491258	libLib.a	154f8731647b845e
+878	1130	1704491258	CMakeFiles/test.bin.dir/UserInterface.cpp.o	6acf6a7fd64756d6
+1130	1213	1704491258	test.bin	ac0bb609a68e61fb
+0	3	0	clean	a7c70eacb11a5051

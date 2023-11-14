@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oleksii/repos/leshcom/src/Database.h
+iostream
+-
+Position.h
+/home/oleksii/repos/leshcom/src/Position.h
+
+/home/oleksii/repos/leshcom/src/Position.h
+iostream
+-
+
+/home/oleksii/repos/leshcom/src/UserInterface.cpp
+iostream
+-
+stdexcept
+-
+string
+-
+Database.h
+/home/oleksii/repos/leshcom/src/Database.h
+

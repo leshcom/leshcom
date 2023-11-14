@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLib.a  CMakeFiles/Lib.dir/Database.cpp.o CMakeFiles/Lib.dir/Employee.cpp.o CMakeFiles/Lib.dir/UserInterface.cpp.o CMakeFiles/Lib.dir/Position.cpp.o
+/usr/bin/ranlib libLib.a

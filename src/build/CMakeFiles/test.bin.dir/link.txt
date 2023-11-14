@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test.bin.dir/UserInterface.cpp.o  -o test.bin libLib.a 

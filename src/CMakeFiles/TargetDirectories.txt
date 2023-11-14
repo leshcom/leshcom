@@ -1,0 +1,4 @@
+/home/oleksii/repos/leshcom/src/CMakeFiles/rebuild_cache.dir
+/home/oleksii/repos/leshcom/src/CMakeFiles/edit_cache.dir
+/home/oleksii/repos/leshcom/src/CMakeFiles/Lib.dir
+/home/oleksii/repos/leshcom/src/CMakeFiles/test.bin.dir
